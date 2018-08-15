@@ -1,0 +1,28 @@
+{
+  "name": "express-authorization-1",
+  "version": "1.0.0",
+  "description": "Authorization-Passport Express application corresponding to the YouTube Tutorial of @iamshaunjp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestrevivo/express-authorization-1.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "authorization"
+  ],
+  "author": "@silvestrevivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestrevivo/express-authorization-1/issues"
+  },
+  "homepage": "https://github.com/silvestrevivo/express-authorization-1#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
